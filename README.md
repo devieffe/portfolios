@@ -136,7 +136,7 @@ Social media is tough today, it's rather difficult to get enough audience (for f
 It's extremely hard and time consuming to create advanced portfolios of many pages, hard-coding it from scratch, even if you're great at it. So think about a similar CMS solution maybe (Wordpress is still one of the best). This is anyhow a tough task to maintain a portfolio app/website of more than 20 units.   
 
 #### Involve more people in the process ####
-Even if you feel so very confident about your portfolio, and it seems shiny and glossy, another pair of eyes can be a great help. Gather some feedback by asking your work mates for reviews and comments. Ask not only teachers or colleagues, but your friends, even relatives, what they think about your website. If you feel great, submit your website to online design awesomeness communities, such as Awwwards.com, Cssdesignawards.com.  
+Even if you feel so very confident about your portfolio, and it seems glossy and shiny, others insights can be a great help. Gather some feedback by asking your work mates for reviews and comments. Ask not only teachers or colleagues, but your friends, even relatives, what they think about your website. If you feel great, submit your website to online design awesomeness communities, such as Awwwards.com, Cssdesignawards.com.  
 
 ## Comparing Frontend and Full-stack portfolios ##
 The portfolios of full stack developers and frontend developers can differ significantly based on their roles and responsibilities. Here are some major differences.
